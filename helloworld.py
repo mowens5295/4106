@@ -1,4 +1,2 @@
-# senior design algorithm 
-
-this is just a test 
-
+print("hello")
+import pandas
